@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+    <string name="array">
+
+    <string name="app_name1">My Application1</string>
+    <string name="app_name2">My Application2</string>
+    <string name="app_name3">My Application3</string>
+    <string name="app_name5">My Application4</string>
+    <string name="app_name6">My Application5</string>
+
+    </string>
+
+</resources>
